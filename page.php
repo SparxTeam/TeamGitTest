@@ -1,1 +1,3 @@
-<?php echo "code is also inserted"; ?>
+<?php
+echo "Hello";
+?>
